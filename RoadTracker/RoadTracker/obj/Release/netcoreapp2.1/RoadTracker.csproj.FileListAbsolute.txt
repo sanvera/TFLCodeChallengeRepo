@@ -1,0 +1,12 @@
+D:\Coding\TFLCodeChallengeRepo\RoadTracker\RoadTracker\bin\Release\netcoreapp2.1\appsettings.json
+D:\Coding\TFLCodeChallengeRepo\RoadTracker\RoadTracker\bin\Release\netcoreapp2.1\RoadTracker.deps.json
+D:\Coding\TFLCodeChallengeRepo\RoadTracker\RoadTracker\bin\Release\netcoreapp2.1\RoadTracker.runtimeconfig.json
+D:\Coding\TFLCodeChallengeRepo\RoadTracker\RoadTracker\bin\Release\netcoreapp2.1\RoadTracker.runtimeconfig.dev.json
+D:\Coding\TFLCodeChallengeRepo\RoadTracker\RoadTracker\bin\Release\netcoreapp2.1\RoadTracker.dll
+D:\Coding\TFLCodeChallengeRepo\RoadTracker\RoadTracker\bin\Release\netcoreapp2.1\RoadTracker.pdb
+D:\Coding\TFLCodeChallengeRepo\RoadTracker\RoadTracker\obj\Release\netcoreapp2.1\RoadTracker.csprojAssemblyReference.cache
+D:\Coding\TFLCodeChallengeRepo\RoadTracker\RoadTracker\obj\Release\netcoreapp2.1\RoadTracker.csproj.CoreCompileInputs.cache
+D:\Coding\TFLCodeChallengeRepo\RoadTracker\RoadTracker\obj\Release\netcoreapp2.1\RoadTracker.AssemblyInfoInputs.cache
+D:\Coding\TFLCodeChallengeRepo\RoadTracker\RoadTracker\obj\Release\netcoreapp2.1\RoadTracker.AssemblyInfo.cs
+D:\Coding\TFLCodeChallengeRepo\RoadTracker\RoadTracker\obj\Release\netcoreapp2.1\RoadTracker.dll
+D:\Coding\TFLCodeChallengeRepo\RoadTracker\RoadTracker\obj\Release\netcoreapp2.1\RoadTracker.pdb
